@@ -1,0 +1,2 @@
+# Stage 1: Bbuild the application
+FROM adoptopenjdk/openjdk17:ubi as build
